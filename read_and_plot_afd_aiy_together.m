@@ -1,11 +1,11 @@
 clear;
 clc;
-close all;
+% close all;
 
 %% ================= USER INPUT =================
 addpath(genpath('/Users/sk3526/Library/CloudStorage/OneDrive-YaleUniversity/lab_members/Sandeep/SCaMP/main_matlab_scripts'));
 
-folder_path = '/Volumes/Sandeep/CalciumImaging/20260602_mEXP1512_AIY_GCamP/20260602_mEXP1512_AIY_GCamP_rep_1';
+folder_path = '/Volumes/Sandeep/CalciumImaging/20260528_mEXP1512_AIY_GCamP/20260528_mEXP1512_AIY_GCamP_rep_3';
 
 plot_title = 'AFD + AIY dual-color calcium imaging';
 
